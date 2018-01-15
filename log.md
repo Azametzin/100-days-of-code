@@ -2,7 +2,7 @@
 
 ### Day 1: Monday, January 15, 2018
 
-**Today's Progress**: I worked more on the FreeCodeCamp challenge.
+**Today's Progress**: I worked more on the FreeCodeCamp challenge called [Build a Markdown Previewer](https://www.freecodecamp.org/challenges/build-a-markdown-previewer).
 
 **Thoughts:** Learned a little more about React. I must finish this soon.
 
