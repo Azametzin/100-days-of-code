@@ -1,4 +1,4 @@
-# I've joined the #100DaysOfCode Challenge.
+# This is the 300 Days Of Code, based on the #100DaysOfCode Challenge.
 
 ## Contents
 * [Rules](rules.md)
