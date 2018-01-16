@@ -2,8 +2,8 @@
 
 ### Day 1: Monday, January 15, 2018
 
-**Today's Progress**: I worked more on the FreeCodeCamp challenge called [Build a Markdown Previewer](https://www.freecodecamp.org/challenges/build-a-markdown-previewer).
+**Today's Progress**: I worked more on the FreeCodeCamp challenge called [Build a Markdown Previewer](https://www.freecodecamp.org/challenges/build-a-markdown-previewer). Learned a little more about React.
 
-**Thoughts:** Learned a little more about React. I must finish this soon.
+### Day 2: Tuesday, January 16, 2018
 
-**Link to work:** [Markdown Previewer](https://codepen.io/Azametzin/full/aVJKmg/)
+**Today's Progress**: Studied basics of Java. Also learned a little more about React. Still working on [Markdown Previewer](https://www.freecodecamp.org/challenges/build-a-markdown-previewer).
