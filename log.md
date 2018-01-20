@@ -14,4 +14,8 @@ I learned more fundamentals of Java and finished [Markdown Previewer App](https:
 
 ### Day 4: Thursday, January 18, 2018
 
-Studied about Data Structures in JavaScript, also explored what's new in ES8 (ES2017) #100DaysOfCode #freeCodeCamp
+Studied about Data Structures in JavaScript, also explored what's new in ES8 (ES2017).
+
+### Day 5: Friday, January 19, 2018
+
+I tested different ways of building templates with CSS grid and flexbox.
