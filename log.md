@@ -19,3 +19,7 @@ Studied about Data Structures in JavaScript, also explored what's new in ES8 (ES
 ### Day 5: Friday, January 19, 2018
 
 I tested different ways of building templates with CSS grid and flexbox.
+
+### Day 6: Saturday, January 20, 2018
+
+Just playing with different frameworks (Skeleton, Bulma, ...). Formulating drafts for ideas.
