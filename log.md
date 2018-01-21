@@ -23,3 +23,7 @@ I tested different ways of building templates with CSS grid and flexbox.
 ### Day 6: Saturday, January 20, 2018
 
 Just playing with different frameworks (Skeleton, Bulma, ...). Formulating drafts for ideas.
+
+### Day 7: Sunday, January 21, 2018
+
+I've been flowing through more React.js today. Events Methods, Nesting Components, Props, States...
