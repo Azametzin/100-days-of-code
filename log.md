@@ -27,3 +27,7 @@ Just playing with different frameworks (Skeleton, Bulma, ...). Formulating draft
 ### Day 7: Sunday, January 21, 2018
 
 I've been flowing through more React.js today. Events Methods, Nesting Components, Props, States...
+
+### Day 8: Monday, January 22, 2018
+
+I studied about CSS3 effects on dropdown menus. Also review the handy ES6 features and lastly I did more code in Python.
