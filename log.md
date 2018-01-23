@@ -31,3 +31,7 @@ I've been flowing through more React.js today. Events Methods, Nesting Component
 ### Day 8: Monday, January 22, 2018
 
 I studied about CSS3 effects on dropdown menus. Also reviewed the handy ES6 features and lastly I did more code in Python.
+
+### Day 9: Tuesday, January 23, 2018
+
+Today I just worked on the FCC project using React.
