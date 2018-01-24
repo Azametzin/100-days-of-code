@@ -35,3 +35,7 @@ I studied about CSS3 effects on dropdown menus. Also reviewed the handy ES6 feat
 ### Day 9: Tuesday, January 23, 2018
 
 Today I just worked on the FCC project using React.
+
+### Day 10: Wednesday, January 24, 2018
+
+I did some calls (Fetch API) to get data. I learned series of methods we can use inside it. Also had basics of Vue.js.
