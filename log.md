@@ -39,3 +39,7 @@ Today I just worked on the FCC project using React.
 ### Day 10: Wednesday, January 24, 2018
 
 I did some calls (Fetch API) to get data. I learned series of methods we can use inside it. Also had basics of Vue.js.
+
+### Day 11: Thursday, January 25, 2018
+
+I continued working on the freeCodeCamp project. Trying to solve some troublesome details.
