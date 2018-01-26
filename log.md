@@ -43,3 +43,7 @@ I did some calls (Fetch API) to get data. I learned series of methods we can use
 ### Day 11: Thursday, January 25, 2018
 
 I continued working on the freeCodeCamp project. Trying to solve some troublesome details.
+
+### Day 12: Friday, January 26, 2018
+
+Few more hours understanding interactions in React. Now trying to call multiple APIs and rendering by comparing their data.
