@@ -51,3 +51,7 @@ Few more hours understanding interactions in React. Now trying to call multiple 
 ### Day 13: Saturday, January 27, 2018
 
 Updated old FCC projects and worked in some details for the next one.
+
+### Day 14: Sunday, January 28, 2018
+
+Today I just checked CSS3 features and worked on the FFC project.
