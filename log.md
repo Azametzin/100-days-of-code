@@ -47,3 +47,7 @@ I continued working on the freeCodeCamp project. Trying to solve some troublesom
 ### Day 12: Friday, January 26, 2018
 
 Few more hours understanding interactions in React. Now trying to call multiple APIs and rendering by comparing their data.
+
+### Day 13: Saturday, January 27, 2018
+
+Updated old FCC projects and worked in some details for the next one.
