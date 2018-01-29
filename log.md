@@ -55,3 +55,7 @@ Updated old FCC projects and worked in some details for the next one.
 ### Day 14: Sunday, January 28, 2018
 
 Today I just checked CSS3 features and worked on the FFC project.
+
+### Day 15: Monday, January 29, 2018
+
+I stayed focused on the FCC project. Trying to solve strange behavior in the app.
