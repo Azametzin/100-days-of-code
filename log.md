@@ -63,3 +63,7 @@ I stayed focused on the FCC project. Trying to solve strange behavior in the app
 ### Day 16: Tuesday, January 30, 2018
 
 Still struggling, but almost finishing the project. Feeling good about the process.
+
+### Day 17: Wednesday, January 31, 2018
+
+Today I finished all the logical part of the FCC project! Working fine. Tomorow I'm going to apply the design.
