@@ -75,3 +75,7 @@ Finished layout aspects and minor issues of the project. Released and going forw
 ### Day 19: Friday, February 2, 2018
 
 Started the next project and checked about different ways to get API data.
+
+### Day 20: Saturday, February 3, 2018
+
+Today I only reviewed old code.
